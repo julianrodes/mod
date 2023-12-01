@@ -32,6 +32,12 @@
                     "imageurl": "https://i.imgur.com/jwbT9Fa.png"
                 }
             },
+              {
+                "tab3": {
+                    "layout": 3,
+                    "buttontext": "Pulsa F1 para activar/desactivar",
+                                    }
+            },
         
         ],
         "links": [
