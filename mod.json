@@ -54,13 +54,13 @@
         "links": [
                {
                 "link2": {
-                    "text": "Link to discord",
+                    "text": "Discord",
                     "url": "https://discord.gg/u3xcTA4ZYZ"
                 }
             },
             {
                 "link3": {
-                    "text": "Link to google",
+                    "text": "WEB Proximamente",
                     "url": "https://google.com"
                 }
             }
