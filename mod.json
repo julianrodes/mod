@@ -41,14 +41,7 @@
                     "imageurl": "https://i.imgur.com/jwbT9Fa.png"
                 }
             },
-            {
-               "tab1": {
-                    "layout": 1,
-                    "buttontext": "<RichColor Color=\"1,0,0,2\">Varios</>", 
-                    "title1": "",
-                    "text1": "<TextStyle.Orange>This text goes into the top left box</>",
-                    "imageurl": "https://i.imgur.com/jwbT9Fa.png"
-                }
+           
             }
         ],
         "links": [
