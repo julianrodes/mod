@@ -3,7 +3,6 @@
         "settings": {
             "OpenButton": 0,
             "HideIcon": true,
-            "HideIconAfter": 60,
             "IconURL": "https://i.imgur.com/Sv4Xzdv.png",
             "DisableIconText": true,
             "IconPosition": 0,
@@ -28,7 +27,7 @@
                     "buttontext": "Mercado",
                     "title1": "Compras",
                     "title2": "Intercambios",
-                    "text1": "Las compras seran con las monedas que obtengas\n Nunca se permitira la obtencion con otra moneda",
+                    "text1": "Las compras seran con las monedas que obtengas\nNunca se permitira la obtencion con otra moneda",
                     "text2": "Obten monedas a cambio de lo que se ponga en la tienda de interambio",
                     "imageurl": "https://i.imgur.com/jwbT9Fa.png"
                 }
