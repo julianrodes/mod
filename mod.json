@@ -51,16 +51,11 @@
             },
             {
                 "link2": {
-                    "text": "Link to discord",
+                    "text": "Discord",
                     "url": "https://discord.com/invite/K7NyrTV"
                 }
             },
-            {
-                "link3": {
-                    "text": "Link to google",
-                    "url": "https://google.com"
-                }
-            }
+                      }
         ]
     }
 }
