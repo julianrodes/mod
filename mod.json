@@ -33,16 +33,16 @@
                 }
             },
             {
-                "tab3": {
-                    "layout": 3,
+               "tab1": {
+                    "layout": 1,
                     "buttontext": "<RichColor Color=\"1,0,1,1\">Comunicados</>",               
                     "text1": "This text goes into the left box",                   
                     "imageurl": "https://i.imgur.com/jwbT9Fa.png"
                 }
             },
             {
-                "tab4": {
-                    "layout": 4,
+               "tab1": {
+                    "layout": 1,
                     "buttontext": "<RichColor Color=\"1,0,0,2\">Varios</>",                    
                     "text1": "<TextStyle.Orange>This text goes into the top left box</>",
                     "imageurl": "https://i.imgur.com/jwbT9Fa.png"
