@@ -34,9 +34,9 @@
             },
             {
                "tab1": {
-                     "layout": 1,
+                     "layout": 3,
                     "buttontext": "<RichColor Color=\"1,0,0,1\">Normativa</>",
-                    "title1": "Bienvenidos a El Mundo Perdido",
+                    "title1": "Comunicados",
                     "text1": "",
                     "imageurl": "https://i.imgur.com/jwbT9Fa.png"
                 }
