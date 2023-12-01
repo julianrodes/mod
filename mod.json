@@ -15,7 +15,7 @@
             {
                 "tab1": {
                     "layout": 2,
-                    "buttontext": "<RichColor Color=\"1,2,0,1\">Mercado</>",
+                    "buttontext": "<RichColor Color=\"1,2,0,1\">Normativa</>",
                     "title1": "Normativa",
                     "text1": "",
                     "imageurl": "https://i.imgur.com/jwbT9Fa.png"
@@ -35,7 +35,7 @@
             {
                 "tab3": {
                     "layout": 3,
-                    "buttontext": "3 Box layout",
+                    "buttontext": "Comunicados",
                     "title1": "Left title",
                     "title2": "Top right title",
                     "title3": "Bottom left title",
