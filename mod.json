@@ -4,7 +4,7 @@
             "OpenButton": 0,
             "HideIcon": true,
             "IconURL": "https://i.imgur.com/Sv4Xzdv.png",
-             "DisableIconText": true,
+            "DisableIconText": true,
             "IconPosition": 0,
             "IconTextColor": 0,
             "OpenOnStart": true,
