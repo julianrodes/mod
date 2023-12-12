@@ -27,7 +27,7 @@
                     "buttontext": "<RichColor Color=\"1,2,0,1\">Mercado</>",
                     "title1": "Compras",
                     "title2": "Intercambios",
-                    "text1": "Las compras seran con las monedas que obtengas\nNunca se permitira la obtencion con otra moneda",
+                    "text1": "Las compras seran con las monedas que obtengas\nNunca se permitira la obtencion con otra moneda\nEn caso de que un dino te salga sin montura comunico al Staff",
                     "text2": "Obten monedas a cambio de lo que se ponga en la tienda de interambio",
                     "imageurl": "https://i.imgur.com/jwbT9Fa.png"
                 }
