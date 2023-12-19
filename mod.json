@@ -33,25 +33,21 @@
                 }
             },
             {
-               "tab1": {
+                "tab1": {
                     "layout": 1,
-                    "buttontext": "<RichColor Color=\"1,3,2,1\">Comunicados</>",    
-                     "title1": "Comunicados",
-                    "text1": "11/12/23 - Se ha puesto el mod de Turkey Trial por motivo de estas fiestas y estara hasta acabar las mismas\n04/12/23 - Implantamos el Mods de Cryopod \n03/12/23 - Evento para sabado 09/12 + info por discord \n01/12/23 - La Tienda ya esta operativa",                   
+                    "buttontext": "<RichColor Color=\"1,3,2,1\">Comunicados</>",
+                    "title1": "Comunicados",
+                    "text1": "11/12/23 - Se ha puesto el mod de Turkey Trial por motivo de estas fiestas y estara hasta acabar las mismas\n04/12/23 - Implantamos el Mods de Cryopod \n03/12/23 - Evento para sabado 09/12 + info por discord \n01/12/23 - La Tienda ya esta operativa",
                     "imageurl": "https://i.imgur.com/jwbT9Fa.png"
                 }
-       
-           
             }
         ],
         "links": [
-               {
+            {
                 "link2": {
                     "text": "Discord",
                     "url": "https://discord.gg/u3xcTA4ZYZ"
                 }
-            },
-          
             }
         ]
     }
